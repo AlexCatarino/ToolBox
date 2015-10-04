@@ -1,0 +1,11 @@
+﻿BBAS3,Banco do Brasil,Equity
+MRFG3,Marfrig,Equity
+PETR4,Petrobras,Equity
+USIM5,Usiminas,Equity
+VALE5,Vale,Equity
+PETR,Petrobras,Options
+VALE,Vale,Options
+INDFUT,Index,Futures
+DOLFUT,Dolar,Futures
+WINFUT,Mini-index,Futures
+WDOFUT,Mini-dolar,Futures

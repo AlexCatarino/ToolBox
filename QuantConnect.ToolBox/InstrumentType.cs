@@ -28,6 +28,21 @@ namespace QuantConnect.ToolBox
         /// <summary>
         /// Contract For Difference instrument type
         /// </summary>
-        Cfd
+        Cfd,
+
+        /// <summary>
+        /// Equity instrument type
+        /// </summary>
+        Equity,
+
+        /// <summary>
+        /// Options instrument type
+        /// </summary>
+        Options,
+
+        /// <summary>
+        /// Futures instrument type
+        /// </summary>
+        Futures
     };
 }
